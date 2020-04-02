@@ -37,7 +37,7 @@ from sklearn.ensemble import GradientBoostingRegressor
 def to_chunks(values, chunk_ix=0):
 	chunks = list()
 	# get the unique chunk ids
-	chunk_ids = unique(values[:, chunk_ix])
+	chunk_ids = unique(values.loc[:, chunk_ix])
 	# group rows by chunk id
 	for chunk_id in chunk_ids:
 		selection = values[:, chunk_ix] == chunk_id
