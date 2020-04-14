@@ -1,0 +1,307 @@
+entity,population,region,subregion
+Afghanistan,27657145,Asia,Southern Asia
+Albania,2886026,Europe,Southern Europe
+Algeria,40400000,Africa,Northern Africa
+Andorra,78014,Europe,Southern Europe
+Angola,25868000,Africa,Middle Africa
+Antigua and Barbuda,86295,Americas,Caribbean
+Argentina,43590400,Americas,South America
+Armenia,2994400,Asia,Western Asia
+Australian Capital Territory,426709,Oceania,Australia and New Zealand
+New South Wales,8089526,Oceania,Australia and New Zealand
+Northern Territory,245869,Oceania,Australia and New Zealand
+Queensland,5095100,Oceania,Australia and New Zealand
+South Australia,1751693,Oceania,Australia and New Zealand
+Tasmania,534281,Oceania,Australia and New Zealand
+Victoria,6594804,Oceania,Australia and New Zealand
+Western Australia,2621680,Oceania,Australia and New Zealand
+Austria,8725931,Europe,Western Europe
+Azerbaijan,9730500,Asia,Western Asia
+Bahamas,378040,Americas,Caribbean
+Bahrain,1404900,Asia,Western Asia
+Bangladesh,161006790,Asia,Southern Asia
+Barbados,285000,Americas,Caribbean
+Belarus,9498700,Europe,Eastern Europe
+Belgium,11319511,Europe,Western Europe
+Belize,370300,Americas,Central America
+Benin,10653654,Africa,Western Africa
+Bhutan,775620,Asia,Southern Asia
+Bolivia,10985059,Americas,South America
+Bosnia and Herzegovina,3531159,Europe,Southern Europe
+Botswana,2141206,Africa,Southern Africa
+Brazil,206135893,Americas,South America
+Brunei,411900,Asia,South-Eastern Asia
+Bulgaria,7153784,Europe,Eastern Europe
+Burkina Faso,19034397,Africa,Western Africa
+Burma,51419420,Asia,South-Eastern Asia
+Burundi,10114505,Africa,Eastern Africa
+Cabo Verde,531239,Africa,Western Africa
+Cambodia,15626444,Asia,South-Eastern Asia
+Cameroon,22709892,Africa,Middle Africa
+Alberta,4413146,Americas,Northern America
+British Columbia,5110917,Americas,Northern America
+Manitoba,1377517,Americas,Northern America
+New Brunswick,779993,Americas,Northern America
+Newfoundland and Labrador,521365,Americas,Northern America
+Northwest Territories,0,,
+Nova Scotia,977457,Americas,Northern America
+Ontario,14711827,Americas,Northern America
+Prince Edward Island,158158,Americas,Northern America
+Quebec,8537674,Americas,Northern America
+Saskatchewan,1181666,Americas,Northern America
+Yukon,0,,
+Central African Republic,4998000,Africa,Middle Africa
+Chad,14497000,Africa,Middle Africa
+Chile,18191900,Americas,South America
+Anhui,62550000,Asia,Eastern Asia
+Beijing,21710000,Asia,Eastern Asia
+Chongqing,30750000,Asia,Eastern Asia
+Fujian,39110000,Asia,Eastern Asia
+Gansu,26260000,Asia,Eastern Asia
+Guangdong,111690000,Asia,Eastern Asia
+Guangxi,48850000,Asia,Eastern Asia
+Guizhou,35550000,Asia,Eastern Asia
+Hainan,9170000,Asia,Eastern Asia
+Hebei,75200000,Asia,Eastern Asia
+Heilongjiang,37890000,Asia,Eastern Asia
+Henan,95590000,Asia,Eastern Asia
+Hong Kong,7324300,Asia,Eastern Asia
+Hubei,59020000,Asia,Eastern Asia
+Hunan,68600000,Asia,Eastern Asia
+Inner Mongolia,25290000,Asia,Eastern Asia
+Jiangsu,80290000,Asia,Eastern Asia
+Jiangxi,46220000,Asia,Eastern Asia
+Jilin,27170000,Asia,Eastern Asia
+Liaoning,43690000,Asia,Eastern Asia
+Macau,649100,Asia,Eastern Asia
+Ningxia,6820000,Asia,Eastern Asia
+Qinghai,5980000,Asia,Eastern Asia
+Shaanxi,38350000,Asia,Eastern Asia
+Shandong,100060000,Asia,Eastern Asia
+Shanghai,24180000,Asia,Eastern Asia
+Shanxi,36820000,Asia,Eastern Asia
+Sichuan,83020000,Asia,Eastern Asia
+Tianjin,15570000,Asia,Eastern Asia
+Tibet,3370000,Asia,Eastern Asia
+Xinjiang,24450000,Asia,Eastern Asia
+Yunnan,48010000,Asia,Eastern Asia
+Zhejiang,56570000,Asia,Eastern Asia
+Colombia,48759958,Americas,South America
+Congo (Brazzaville),4741000,Africa,Middle Africa
+Congo (Kinshasa),85026000,Africa,Middle Africa
+Costa Rica,4890379,Americas,Central America
+Cote d'Ivoire,22671331,Africa,Western Africa
+Croatia,4190669,Europe,Southern Europe
+Cuba,11239004,Americas,Caribbean
+Cyprus,847000,Europe,Southern Europe
+Czechia,10558524,Europe,Eastern Europe
+Faroe Islands,49376,Europe,Northern Europe
+Greenland,55847,Americas,Northern America
+Denmark,5717014,Europe,Northern Europe
+Diamond Princess,3711,Asia,Eastern Asia
+Djibouti,900000,Africa,Eastern Africa
+Dominica,71293,Americas,Caribbean
+Dominican Republic,10075045,Americas,Caribbean
+Ecuador,16545799,Americas,South America
+Egypt,91290000,Africa,Northern Africa
+El Salvador,6520675,Americas,Central America
+Equatorial Guinea,1222442,Africa,Middle Africa
+Eritrea,5352000,Africa,Eastern Africa
+Estonia,1315944,Europe,Northern Europe
+Eswatini,1132657,Africa,Southern Africa
+Ethiopia,92206005,Africa,Eastern Africa
+Fiji,867000,Oceania,Melanesia
+Finland,5491817,Europe,Northern Europe
+French Guiana,254541,Americas,South America
+French Polynesia,271800,Oceania,Polynesia
+Guadeloupe,400132,Americas,Caribbean
+Martinique,378243,Americas,Caribbean
+Mayotte,226915,Africa,Eastern Africa
+New Caledonia,268767,Oceania,Melanesia
+Reunion,840974,Africa,Eastern Africa
+Saint Barthelemy,9417,Americas,Caribbean
+St Martin,36979,Americas,Caribbean
+France,66710000,Europe,Western Europe
+Gabon,1802278,Africa,Middle Africa
+Gambia,1882450,Africa,Western Africa
+Sakartvelo,3720400,Asia,Western Asia
+Germany,81770900,Europe,Western Europe
+Ghana,27670174,Africa,Western Africa
+Greece,10858018,Europe,Southern Europe
+Grenada,103328,Americas,Caribbean
+Guatemala,16176133,Americas,Central America
+Guinea,12947000,Africa,Western Africa
+Guinea-Bissau,1547777,Africa,Western Africa
+Guyana,746900,Americas,South America
+Haiti,11078033,Americas,Caribbean
+Holy See,451,Europe,Southern Europe
+Honduras,8576532,Americas,Central America
+Hungary,9823000,Europe,Eastern Europe
+Iceland,334300,Europe,Northern Europe
+India,1295210000,Asia,Southern Asia
+Indonesia,258705000,Asia,South-Eastern Asia
+Iran,79369900,Asia,Southern Asia
+Iraq,37883543,Asia,Western Asia
+Ireland,6378000,Europe,Northern Europe
+Israel,8527400,Asia,Western Asia
+Italy,60665551,Europe,Southern Europe
+Jamaica,2723246,Americas,Caribbean
+Japan,126960000,Asia,Eastern Asia
+Jordan,9531712,Asia,Western Asia
+Kazakhstan,17753200,Asia,Central Asia
+Kenya,47251000,Africa,Eastern Africa
+"Korea, South",25281000,Asia,Eastern Asia
+Kosovo,1733842,Europe,Eastern Europe
+Kuwait,4183658,Asia,Western Asia
+Kyrgyzstan,6047800,Asia,Central Asia
+Laos,6492400,Asia,South-Eastern Asia
+Latvia,1961600,Europe,Northern Europe
+Lebanon,5988000,Asia,Western Asia
+Liberia,4615000,Africa,Western Africa
+Libya,6385000,Africa,Northern Africa
+Liechtenstein,37623,Europe,Western Europe
+Lithuania,2872294,Europe,Northern Europe
+Luxembourg,576200,Europe,Western Europe
+MS Zaandam,0,,
+Madagascar,22434363,Africa,Eastern Africa
+Malaysia,31405416,Asia,South-Eastern Asia
+Maldives,344023,Asia,Southern Asia
+Mali,18135000,Africa,Western Africa
+Malta,425384,Europe,Southern Europe
+Mauritania,3718678,Africa,Western Africa
+Mauritius,1262879,Africa,Eastern Africa
+Mexico,122273473,Americas,Central America
+Moldova,3553100,Europe,Eastern Europe
+Monaco,38400,Europe,Western Europe
+Mongolia,3093100,Asia,Eastern Asia
+Montenegro,621810,Europe,Southern Europe
+Morocco,33337529,Africa,Northern Africa
+Mozambique,26423700,Africa,Eastern Africa
+Namibia,2324388,Africa,Southern Africa
+Nepal,28431500,Asia,Southern Asia
+Aruba,107394,Americas,Caribbean
+Curacao,154843,Americas,Caribbean
+Sint Maarten,38247,Americas,Caribbean
+Netherlands,17019800,Europe,Western Europe
+New Zealand,4697854,Oceania,Australia and New Zealand
+Nicaragua,6262703,Americas,Central America
+Niger,20715000,Africa,Western Africa
+Nigeria,186988000,Africa,Western Africa
+North Macedonia,2058539,Europe,Southern Europe
+Norway,5223256,Europe,Northern Europe
+Oman,4420133,Asia,Western Asia
+Pakistan,194125062,Asia,Southern Asia
+Panama,3814672,Americas,Central America
+Papua New Guinea,8083700,Oceania,Melanesia
+Paraguay,6854536,Americas,South America
+Peru,31488700,Americas,South America
+Philippines,103279800,Asia,South-Eastern Asia
+Poland,38437239,Europe,Eastern Europe
+Portugal,10374822,Europe,Southern Europe
+Qatar,2587564,Asia,Western Asia
+Romania,19861408,Europe,Eastern Europe
+Russia,146599183,Europe,Eastern Europe
+Rwanda,11553188,Africa,Eastern Africa
+Saint Kitts and Nevis,46204,Americas,Caribbean
+Saint Lucia,186000,Americas,Caribbean
+Saint Vincent and the Grenadines,109991,Americas,Caribbean
+San Marino,33005,Europe,Southern Europe
+Saudi Arabia,32248200,Asia,Western Asia
+Senegal,14799859,Africa,Western Africa
+Serbia,7076372,Europe,Southern Europe
+Seychelles,91400,Africa,Eastern Africa
+Sierra Leone,7075641,Africa,Western Africa
+Singapore,5535000,Asia,South-Eastern Asia
+Slovakia,5426252,Europe,Eastern Europe
+Slovenia,2064188,Europe,Southern Europe
+Somalia,11079000,Africa,Eastern Africa
+South Africa,55653654,Africa,Southern Africa
+Spain,46438422,Europe,Southern Europe
+Sri Lanka,20966000,Asia,Southern Asia
+Sudan,39598700,Africa,Northern Africa
+Suriname,541638,Americas,South America
+Sweden,9894888,Europe,Northern Europe
+Switzerland,8341600,Europe,Western Europe
+Syria,18564000,Asia,Western Asia
+Taiwan*,23503349,Asia,Eastern Asia
+Tanzania,55155000,Africa,Eastern Africa
+Thailand,65327652,Asia,South-Eastern Asia
+Timor-Leste,1167242,Asia,South-Eastern Asia
+Togo,7143000,Africa,Western Africa
+Trinidad and Tobago,1349667,Americas,Caribbean
+Tunisia,11154400,Africa,Northern Africa
+Turkey,78741053,Asia,Western Asia
+Alabama,4887871,Americas,Northern America
+Alaska,737438,Americas,Northern America
+Arizona,7171646,Americas,Northern America
+Arkansas,3013825,Americas,Northern America
+California,39557045,Americas,Northern America
+Colorado,5695564,Americas,Northern America
+Connecticut,3572665,Americas,Northern America
+Delaware,967171,Americas,Northern America
+District of Columbia,702455,Americas,Northern America
+Florida,21299325,Americas,Northern America
+Georgia,3720400,Asia,Western Asia
+Guam,184200,Oceania,Micronesia
+Hawaii,1420491,Americas,Northern America
+Idaho,1754208,Americas,Northern America
+Illinois,12741080,Americas,Northern America
+Indiana,6691878,Americas,Northern America
+Iowa,3156145,Americas,Northern America
+Kansas,2911510,Americas,Northern America
+Kentucky,4468402,Americas,Northern America
+Louisiana,4659978,Americas,Northern America
+Maine,1338404,Americas,Northern America
+Maryland,6042718,Americas,Northern America
+Massachusetts,6902149,Americas,Northern America
+Michigan,9995915,Americas,Northern America
+Minnesota,5611179,Americas,Northern America
+Mississippi,2986530,Americas,Northern America
+Missouri,6126452,Americas,Northern America
+Montana,1062305,Americas,Northern America
+Nebraska,1929268,Americas,Northern America
+Nevada,3034392,Americas,Northern America
+New Hampshire,1356458,Americas,Northern America
+New Jersey,8908520,Americas,Northern America
+New Mexico,2095428,Americas,Northern America
+New York,19542209,Americas,Northern America
+North Carolina,10383620,Americas,Northern America
+North Dakota,760077,Americas,Northern America
+Ohio,11689442,Americas,Northern America
+Oklahoma,3943079,Americas,Northern America
+Oregon,4190713,Americas,Northern America
+Pennsylvania,12807060,Americas,Northern America
+Puerto Rico,3474182,Americas,Caribbean
+Rhode Island,1057315,Americas,Northern America
+South Carolina,5084127,Americas,Northern America
+South Dakota,882235,Americas,Northern America
+Tennessee,6770010,Americas,Northern America
+Texas,28701845,Americas,Northern America
+Utah,3161105,Americas,Northern America
+Vermont,626299,Americas,Northern America
+Virgin Islands,114743,Americas,Caribbean
+Virginia,8517685,Americas,Northern America
+Washington,7535591,Americas,Northern America
+West Virginia,1805832,Americas,Northern America
+Wisconsin,5813568,Americas,Northern America
+Wyoming,577737,Americas,Northern America
+Uganda,33860700,Africa,Eastern Africa
+Ukraine,42692393,Europe,Eastern Europe
+United Arab Emirates,9856000,Asia,Western Asia
+Anguilla,13452,Americas,Caribbean
+Bermuda,61954,Americas,Northern America
+British Virgin Islands,0,,
+Cayman Islands,58238,Americas,Caribbean
+Channel Islands,170499,Europe,Northern Europe
+Gibraltar,33140,Europe,Southern Europe
+Isle of Man,84497,Europe,Northern Europe
+Montserrat,4922,Americas,Caribbean
+Turks and Caicos Islands,31458,Americas,Caribbean
+United Kingdom,65110000,Europe,Northern Europe
+Uruguay,3480222,Americas,South America
+Uzbekistan,31576400,Asia,Central Asia
+Venezuela,31028700,Americas,South America
+Vietnam,92700000,Asia,South-Eastern Asia
+West Bank and Gaza,0,,
+Zambia,15933883,Africa,Eastern Africa
+Zimbabwe,14240168,Africa,Eastern Africa
