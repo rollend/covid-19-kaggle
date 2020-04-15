@@ -43,13 +43,13 @@ British Columbia,5110917,Americas,Northern America
 Manitoba,1377517,Americas,Northern America
 New Brunswick,779993,Americas,Northern America
 Newfoundland and Labrador,521365,Americas,Northern America
-Northwest Territories,0,,
+Northwest Territories,44826,,
 Nova Scotia,977457,Americas,Northern America
 Ontario,14711827,Americas,Northern America
 Prince Edward Island,158158,Americas,Northern America
 Quebec,8537674,Americas,Northern America
 Saskatchewan,1181666,Americas,Northern America
-Yukon,0,,
+Yukon,35874,,
 Central African Republic,4998000,Africa,Middle Africa
 Chad,14497000,Africa,Middle Africa
 Chile,18191900,Americas,South America
@@ -162,7 +162,7 @@ Libya,6385000,Africa,Northern Africa
 Liechtenstein,37623,Europe,Western Europe
 Lithuania,2872294,Europe,Northern Europe
 Luxembourg,576200,Europe,Western Europe
-MS Zaandam,0,,
+MS Zaandam,1400,,
 Madagascar,22434363,Africa,Eastern Africa
 Malaysia,31405416,Asia,South-Eastern Asia
 Maldives,344023,Asia,Southern Asia
@@ -290,7 +290,7 @@ Ukraine,42692393,Europe,Eastern Europe
 United Arab Emirates,9856000,Asia,Western Asia
 Anguilla,13452,Americas,Caribbean
 Bermuda,61954,Americas,Northern America
-British Virgin Islands,0,,
+British Virgin Islands,29802,,
 Cayman Islands,58238,Americas,Caribbean
 Channel Islands,170499,Europe,Northern Europe
 Gibraltar,33140,Europe,Southern Europe
@@ -302,6 +302,6 @@ Uruguay,3480222,Americas,South America
 Uzbekistan,31576400,Asia,Central Asia
 Venezuela,31028700,Americas,South America
 Vietnam,92700000,Asia,South-Eastern Asia
-West Bank and Gaza,0,,
+West Bank and Gaza,4569000,,
 Zambia,15933883,Africa,Eastern Africa
 Zimbabwe,14240168,Africa,Eastern Africa

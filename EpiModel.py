@@ -30,23 +30,23 @@ class EpiModel:
         """Internal function used by integration routine"""
         diff = np.zeros(len(pos))
         N = np.sum(population)
-        print('time',time)       
-        print("pos",pos)
+        #print('time',time)       
+        #print("pos",pos)
         for edge in self.transitions.edges(data=True):
             source = edge[0]
             target = edge[1]
             trans = edge[2]
-            print("edge",edge)
+            #print("edge",edge)
             
             rate = trans['rate']*population[pos[source]]
-            print("rate",rate)
+            #print("rate",rate)
             if 'agent' in trans:
                 agent = trans['agent']
                 rate *= population[pos[agent]]/N
                 
             diff[pos[source]] -= rate
             diff[pos[target]] += rate
-            print("diff", diff)  
+            #print("diff", diff)  
         return diff
     
     def plot(self, title=None, normed=False):
@@ -77,16 +77,16 @@ class EpiModel:
     
     def integrate(self, timesteps, **kwargs):
         """Numerically integrate the epidemic model"""
-        print(kwargs)
+        #print(kwargs)
         pos = {comp: i for i, comp in enumerate(kwargs)}
         population=np.zeros(len(pos))
-        print(pos)
-        print(population)
+        #print(pos)
+        #print(population)
         for comp in pos:
             population[pos[comp]] = kwargs[comp]
-        print(population)
+        #print(population)
         time = np.arange(1, timesteps, 1)
-        print(self._new_cases)
+        #print(self._new_cases)
 
         self.values_ = pd.DataFrame(scipy.integrate.odeint(self._new_cases, population, time, args=(pos,)), columns=pos.keys(), index=time)
         
